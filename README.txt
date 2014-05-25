@@ -2,7 +2,7 @@
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 * *                                                   * *
 * *   TTTTT H  H  AAA  NN N  K KK   YY  Y  OO  U UU   * *
-* *     TT  HHHH AA AA NN N  KKK      YY  O  O U UU   * *
+* *   TTTTT HHHH AA AA NN N  KKK      YY  O  O U UU   * *
 * *     TT  H  H AAAAA NNNN  K KK     YY  O  O U UU   * *
 * *     TT  H  H AA AA N NN  K KK     YY   OO   UU    * *
 * *                                                   * *

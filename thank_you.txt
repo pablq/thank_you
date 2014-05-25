@@ -2,7 +2,7 @@ Shukria - Hindi
 Evharisto - Greek
 Khob khun krub - Thai
 Kahm sahm needah - Korean
-Obrigato/a - Portugues
+Obrigado/a - Portugues
 Gracias - Spanish
 Grazie - Italian
 Danke - German
@@ -25,3 +25,5 @@ Dankjewl - Dutch
 Spasibo - Russian
 Multumesc (Frumos) - Romanian
 Fala - Bosnian
+Malayalam - Nandi
+Dhanyadaalu - Telugu
