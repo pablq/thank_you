@@ -25,7 +25,7 @@ Dankjewl - Dutch
 Spasibo - Russian
 Multumesc (Frumos) - Romanian
 Fala - Bosnian
-Malayalam - Na-ni (India - Sanskrit)
+Na-ni - Malayalam (India - Sanskrit)
 Dhanyadaalu - Telugu (India)
 Merci, Bototo, Matondo - Lingala (Zaire)
 Twasakidila - Tshiluba (Zaire)
@@ -51,3 +51,5 @@ Eskerrik asko - Basque
 abhar OR dhanyvad - Gujarati
 Dankon - Esperanto
 Dhonnobaad - Bengali
+Isaymisis - Tatar
+Dhanya-waada - Kannada
